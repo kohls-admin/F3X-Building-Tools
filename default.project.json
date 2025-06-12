@@ -41,15 +41,6 @@
 		"Assets": {
 			"$path": "Support/Assets.lua"
 		},
-		"AutoUpdate": {
-			"$className": "BoolValue",
-			"$properties": {
-				"Value": false
-			},
-			"AutomaticUpdating": {
-				"$path": "AutomaticUpdating.server.lua"
-			}
-		},
 		"Loaded": {
 			"$className": "BoolValue",
 			"DescendantCount": {
